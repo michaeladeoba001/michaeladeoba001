@@ -14,3 +14,78 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋 I'm Michael Adeoba
+
+Welcome to my GitHub profile!  
+
+I’m passionate about Cybersecurity, Governance Risk & Compliance (GRC), and helping organizations build secure and compliant systems. Currently growing my knowledge in cybersecurity frameworks, risk management, security operations, and IT governance while working toward a career in GRC.
+
+
+## About Me
+
+- Aspiring Cybersecurity & GRC Professional
+- Currently learning cybersecurity fundamentals, risk management, and compliance frameworks
+- Interested in Governance, Risk & Compliance (GRC), Security Analysis, and IT Auditing
+- Continuously building hands-on technical and analytical skills
+- Open to collaborating on cybersecurity and tech-related projects
+- Based in Toronto, Ontario
+
+
+
+## Skills & Technologies
+
+- Governance, Risk & Compliance (GRC)
+- Cybersecurity Fundamentals
+- Risk Assessment & Documentation
+- Security Awareness
+- Git & GitHub
+- Microsoft Office & Documentation
+- Communication & Team Collaboration
+
+### 📖 Currently Learning
+
+- NIST Cybersecurity Framework
+- ISO 27001
+- SOC 2 Compliance
+- SIEM Tools
+- Linux Fundamentals
+- Networking Basics
+- Python for Cybersecurity
+
+---
+
+## Career Goals
+
+- Transition into a Cybersecurity/GRC role
+- Gain hands-on experience in security governance and compliance
+- Earn cybersecurity certifications
+- Contribute to security-focused and open-source projects
+- Continue developing technical and professional skills
+
+---
+
+## Featured Projects
+
+- 🔐 Security & Compliance Notes
+- 📊 Risk Assessment Templates
+- 🖥️ Beginner Cybersecurity Labs
+- 📘 GRC Learning Resources
+
+
+## 📫 Connect With Me
+
+- LinkedIn: *(https://www.linkedin.com/in/michaeladeoba/)*
+- Email: *(Michaeladeoba1@gmail.com)*
+
+
+## ⚡ Quote
+
+> “Security is not a product, but a process.” – Bruce Schneier
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
