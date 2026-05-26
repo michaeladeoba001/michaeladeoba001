@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome👋 I'm Michael Adeoba
+👋 I'm Michael Adeoba
 
 Welcome to my GitHub profile!  
 
